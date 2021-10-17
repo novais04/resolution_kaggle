@@ -1,9 +1,10 @@
 # resolution_kaggle
 Estudos de resolução de desáfios do kaggle
 
-1°)  House Prices 
+__1°)  House Prices__
 
-Contexto
+__Contexto:__
+
 Este é o conjunto de dados usado no segundo capítulo do livro recente de Aurélien Géron,
 'Aprendizado de máquina prático com Scikit-Learn e TensorFlow'. 
 Ele serve como uma excelente introdução à implementação de algoritmos de aprendizado de 
